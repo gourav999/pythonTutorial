@@ -4,6 +4,9 @@
 #Operators (Arithmetic, Logical, Comparison)
 # #⃣ Conditional Statements (if, elif, else)
 # Loops (for, while)
+
+import sys
+print (sys.version) #this will print the python version
 name = "Gourav Jain delivery manager"
 age = 30
 
