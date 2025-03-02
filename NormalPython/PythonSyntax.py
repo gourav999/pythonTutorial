@@ -61,3 +61,12 @@ my_variable_name="Gourav"
 
 x,y,z="organe","banana", "apple"
 print(x,y,z)
+
+#one value to multiple variables.
+x=y=z="gourav"
+print(x);print(y); print(z)
+
+#unpacking the values
+fruits=["apple","banana","cherry"]
+x,y,z=fruits
+print(x);print(y); print(z)
