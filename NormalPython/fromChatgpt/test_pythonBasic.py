@@ -1,3 +1,5 @@
+#please note the pytest always run the test cases whose file name starts with test_
+
 # Simple Python program
 #1️⃣ Installing Python & Running Scripts
 # Variables & Data Types
